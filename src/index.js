@@ -1,5 +1,5 @@
 console.log('index.js');
-console.log('version 2');
+console.log('version 3');
 //ls = list files and folders in the current folder
 //cd = change directory
 //git init = initialize git
