@@ -1,5 +1,5 @@
 console.log('index.js');
-console.log('version 3');
+console.log('version 1');
 //ls = list files and folders in the current folder
 //cd = change directory
 //git init = initialize git
@@ -8,4 +8,3 @@ console.log('version 3');
 //git add . = add all files in current directory
 //git commit -m "" = To know what we changed in this version
 //git log = to see the version history
-//git reset = resets changes
